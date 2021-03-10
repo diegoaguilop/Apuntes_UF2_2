@@ -77,12 +77,14 @@
     * **Merge** (fast-forward, 3-way)
 
 * **Àrees:**
+
 ![](git-areas1.png)
 
 ![](git-areas2.png)
 
 * **Branques:**
-![](git-branques.png)
+
+![](git-branches.png)
 
 
 * **Ordres:**
