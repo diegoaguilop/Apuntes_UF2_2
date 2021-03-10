@@ -6,6 +6,8 @@
 
 ### **Hediondez del codi**
 
+L'Hediondez del codi o code smell és qualsevol símptoma en el codi font d'un programa que possiblement indica un problema més profund.Indiquen deficiències en el disseny del programari que poden alentir el desenvolupament o augmenten el risc d'errors.És un motiu important per a realitzar refactorització.
+
 ----------------------
 
 ### **Anàlisi de codi**
