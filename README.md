@@ -8,6 +8,21 @@
 
 L'Hediondez del codi o code smell és qualsevol símptoma en el codi font d'un programa que possiblement indica un problema més profund.Indiquen deficiències en el disseny del programari que poden alentir el desenvolupament o augmenten el risc d'errors.És un motiu important per a realitzar refactorització.
 
+* Exemples:
+  * **Codi duplicat:** Hi ha codi idèntic o molt similar en més d'una ubicació.
+
+  * **Molts paràmetres:** Una llarga llista de paràmetres d'un procediment o funció empitjora la llegibilitat i la qualitat de el codi.
+
+  * **Enveja de característiques:** Una classe que fa servir excessivament mètodes d'una altra classe.
+
+  * **Classe mandrosa:** Una classe que fa molt poc.
+
+  * **Identificadors excessivament curts i incoherents:** El nom d'una variable ha de reflectir la seva funció, llevat que sigui obvi.
+
+  * **Classe gran:** Una classe que ha crescut fins a ser massa gran.
+
+  * **Mètode gran:** 1 mètode , funció o procediment que ha crescut fins a ser massa gran.
+
 ----------------------
 
 ### **Anàlisi de codi**
