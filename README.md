@@ -104,3 +104,10 @@
 # Otros
   diff, tag, submodule
 ~~~
+
+* **Llocs que suporten GIT:**
+ * **GitHub**
+ * **Bitbucket**
+ * **GitLab**
+ * **Coding -en xinès-**
+----------------------
